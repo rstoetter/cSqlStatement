@@ -1,4 +1,4 @@
-# changelog of cSqlStatement-php
+# changelog of cSqlStatement
 
 ## Release  1.0.1
 
