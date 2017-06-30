@@ -1,6 +1,6 @@
 {
-    "name": "rstoetter/cSqlStatement",
-    "description": "class to manage SQL statements ",
+    "name": "rstoetter/csqlstatement-php",
+    "description": "class to construct SQL statements ",
     "license": "MIT",
     "keywords": ["php", "sql","sql statement"],
     "authors": [

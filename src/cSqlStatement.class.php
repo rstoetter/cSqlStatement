@@ -7,6 +7,8 @@ TODO: IsJoin( $table_name )
 
 */
 
+namespace rstoetter\cSqlStatement;
+
 if ( (int) phpversion( ) < 5 ) die("Sorry, The class cSqlStatement is written for PHP 5");
 
 define( '_SQL_GENERATOR_QUERY_TYPE_SELECT', 'SELECT' );
@@ -14,7 +16,7 @@ define( '_SQL_GENERATOR_QUERY_TYPE_INSERT', 'INSERT' );
 define( '_SQL_GENERATOR_QUERY_TYPE_UPDATE', 'UPDATE' );
 define( '_SQL_GENERATOR_QUERY_TYPE_DELETE', 'DELETE' );
 
-namespace rstoetter\cSqlStatement;
+
 
 
 /**
